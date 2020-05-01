@@ -1,0 +1,21 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>icons/question_block.ico</file>
+    <file>icons/restore.png</file>
+    <file>icons/search_24.png</file>
+    <file>icons/search.png</file>
+    <file>icons/add.png</file>
+    <file>icons/background_1.jpg</file>
+    <file>icons/backup.png</file>
+    <file>icons/bold.png</file>
+    <file>icons/cancel.png</file>
+    <file>icons/delete.png</file>
+    <file>icons/donate.png</file>
+    <file>icons/italic.png</file>
+    <file>icons/order-list.png</file>
+    <file>icons/save.png</file>
+    <file>icons/tag-jpg.png</file>
+    <file>icons/underline.png</file>
+    <file>icons/unordered-list.png</file>
+  </qresource>
+</RCC>
